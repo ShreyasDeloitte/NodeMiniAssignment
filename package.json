@@ -1,0 +1,24 @@
+{
+  "name": "node_assignment_shreyas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShreyasDeloitte/Node_Assignment_Shreyas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShreyasDeloitte/Node_Assignment_Shreyas/issues"
+  },
+  "homepage": "https://github.com/ShreyasDeloitte/Node_Assignment_Shreyas#readme",
+  "devDependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
